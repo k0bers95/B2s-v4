@@ -262,7 +262,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 0, 1)
 scriptbyblue2spooky.Font = Enum.Font.Roboto
-scriptbyblue2spooky.Text = "1x1x1x1"
+scriptbyblue2spooky.Text = "curse word song"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -273,9 +273,9 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";music 139488665764275")
+    RequestCommand:InvokeServer(";music 105219301299688")
 	RequestCommand:InvokeServer(";volume inf")
-
+        RequestCommand:InvokeServer(";pitch 0.29")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
