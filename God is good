@@ -61,8 +61,8 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";music 1846368080")
-	RequestCommand:InvokeServer(";pitch 0.9")
+    RequestCommand:InvokeServer(";music 81473191233297")
+	RequestCommand:InvokeServer(";pitch 0.2")
 	RequestCommand:InvokeServer(";volume inf")
  
 end)
@@ -122,7 +122,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 0, 1)
 scriptbyblue2spooky.Font = Enum.Font.Roboto
-scriptbyblue2spooky.Text = "raining men "
+scriptbyblue2spooky.Text = "niggers"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 17 
 scriptbyblue2spooky.TextWrapped = true
@@ -133,9 +133,8 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";music 104497567166761")
+    RequestCommand:InvokeServer(";music 809751400019652")
 	RequestCommand:InvokeServer(";volume inf")
-        RequestCommand:InvokeServer(";pitch 0.27")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -193,7 +192,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 0, 1)
 scriptbyblue2spooky.Font = Enum.Font.Roboto
-scriptbyblue2spooky.Text = "hardstyle"
+scriptbyblue2spooky.Text = "lotsa spaghetti"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -204,9 +203,9 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";music 1839246774")
-	RequestCommand:InvokeServer(";volume inf")
- 
+    RequestCommand:InvokeServer(";music 99907604701668")
+    RequestCommand:InvokeServer(";volume inf")
+    RequestCommand:InvokeServer(";pitch 0.13")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -216,7 +215,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 0, 1)
 scriptbyblue2spooky.Font = Enum.Font.Roboto
-scriptbyblue2spooky.Text = "Sp00ky dubstep"
+scriptbyblue2spooky.Text = "peter griffin nigger "
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -227,9 +226,9 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";music 118324869664952")
+    RequestCommand:InvokeServer(";music 73324775979494")
 	RequestCommand:InvokeServer(";volume inf")
-    RequestCommand:InvokeServer(";pitch 1.26")
+    RequestCommand:InvokeServer(";pitch 0.2")
  
 end)
 
@@ -240,7 +239,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 0, 1)
 scriptbyblue2spooky.Font = Enum.Font.Roboto
-scriptbyblue2spooky.Text = "nuke siren"
+scriptbyblue2spooky.Text = "crank dat bypassed"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -251,9 +250,9 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";music 6525690145")
-	RequestCommand:InvokeServer(";volume inf")
- 
+    RequestCommand:InvokeServer(";music 1491842303")
+    RequestCommand:InvokeServer(";volume inf")
+    RequestCommand:InvokeServer(";pitch 5")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
